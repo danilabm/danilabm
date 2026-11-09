@@ -4,6 +4,8 @@ Uso IA para transformar processos de trabalho em ferramentas que funcionam. Sou 
 
 **No trabalho, com o Claude:** a análise de cada processo de aluguel social caiu de 4–16 horas para 1–2 horas, a do PDDEMI de 4–6 horas para 1 hora e cada parecer da APAE de 2–3 dias para 4 horas, já com conferência humana; uma ferramenta local em Python reduziu de dias para horas a preparação de documentos para o Tribunal de Contas do Estado de SP.
 
+**Veja rodando:** [a ferramenta do TCE-SP processando seis documentos fictícios](https://danilabm.github.io/Portfolio/#demo) — 2 min 40 s de OCR, conversão para preto e branco, compressão e divisão, com dois arquivos em paralelo. É uma ferramenta local, que roda na máquina e não envia nada para fora; construí com apoio de IA na programação.
+
 ## Projetos
 
 | Projeto | O que faz | Tecnologias |
