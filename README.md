@@ -1,8 +1,8 @@
 # Olá, sou a Danila
 
-Uso IA para transformar processos de trabalho em ferramentas que funcionam. Sou Agente de Administração Pública no Controle Interno da Prefeitura de Ilhabela (SP), tenho mais de 15 anos em operações, compras e logística, e curso Ciência de Dados na Univesp.
+Uso IA para transformar processos de trabalho em ferramentas que funcionam. Sou Agente de Administração Pública no Controle Interno da Prefeitura de Ilhabela (SP), tenho mais de 20 anos em operações, compras e logística, e curso Ciência de Dados na Univesp.
 
-**No trabalho, com o Claude:** a análise de cada processo de aluguel social caiu de 4–16 horas para 1–2 horas, e uma ferramenta local em Python reduziu de dias para horas a preparação de documentos para o Tribunal de Contas do Estado de SP.
+**No trabalho, com o Claude:** a análise de cada processo de aluguel social caiu de 4–16 horas para 1–2 horas, a do PDDEMI de 4–6 horas para 1 hora e cada parecer da APAE de 2–3 dias para 4 horas, já com conferência humana; uma ferramenta local em Python reduziu de dias para horas a preparação de documentos para o Tribunal de Contas do Estado de SP.
 
 ## Projetos
 
